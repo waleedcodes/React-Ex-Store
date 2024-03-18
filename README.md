@@ -1,1 +1,1 @@
-# New React Ecomerce idea!
+# New React Ecommerce idea!
